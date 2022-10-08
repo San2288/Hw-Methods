@@ -35,6 +35,7 @@ public class Main {
         System.out.println();
     }
 
+
     public static int calculateDeliveryDays(int deliveryDistance) {
         // Задание 3
         System.out.println("Задание 3");
